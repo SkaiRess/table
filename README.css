@@ -1,12 +1,5 @@
 /* User's Styled Elements: Tabs */
-.use-tabs {
-  position: relative;
-  display: flex;
-  flex-direction: row;
-  flex-wrap: wrap;
 
-  --c-tab: 0 0%;
-  --c-border: var(--color-border, #ddd);
 }
 
 .use-tabs > div:not([data-dynamic]) {
