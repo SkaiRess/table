@@ -1,6 +1,6 @@
 /* User's Styled Elements: Tabs */
 .use-tabs {
-  position: relative;
+
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
@@ -47,7 +47,7 @@
   padding: 4px 16px;
   margin: 4px;
   border: 2px solid;
-  border-radius: 10px;
+  border-radius: 40px;
   color: hsla(var(--c-tab) 64% / 100%); /* Light: 46%; Dark: 64% */
   line-height: 24px;
   cursor: pointer;
