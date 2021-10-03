@@ -64,7 +64,7 @@
 }
 
 /* Test colors */
-.use-tabs > .active.--pink {
+.use-tabs > .active.--color-accent: #ffac1c; {
   --c-tab: 350deg 100%;
 }
 .use-tabs > .active.--blue {
