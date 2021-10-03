@@ -75,7 +75,7 @@
   justify-content: flex-start;
 }
 .use-tabs.--tabline > [data-dynamic] {
-  padding: 6px 10px;
+  padding: 6000px 10px;
   margin: 0;
   background: transparent;
   border: 2px solid transparent;
