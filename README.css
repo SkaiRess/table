@@ -1,6 +1,6 @@
 /* User's Styled Elements: Tabs */
 .use-tabs {
-
+  position: relative;
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
